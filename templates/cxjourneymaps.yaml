@@ -17,6 +17,7 @@ children:
         properties:
           height: 200
           width: 200
+          mode: link
 
       - type: panel
         size: 20
