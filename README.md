@@ -91,22 +91,22 @@ Header consists of following properties
 | title | string | null | Name as visible on the tools list |
 | summary | string | null | Brief summary of template as visible on the tools list |
 | thumbnail | string | null | representative image displayed on the templates listing page |
-| orientation | vertical`|`horizontal | vertical | Indicates orientation of the first set of child elements |
-| layout | freeflow`|`slit | null | CraftProducts supports 2 types of layouts. Split layout provides resizable panels while freeflow expands beyond given viewport|
+| orientation | vertical/horizontal | vertical | Indicates orientation of the first set of child elements |
+| layout | freeflow/slit | null | CraftProducts supports 2 types of layouts. Split layout provides resizable panels while freeflow expands beyond given viewport|
 | children | array | null | list of child elements (container/panel/matrix) that make up this template |
 
 ### Children
 Children consists of following properties
 | Name | Type | Default | Description |
 | --- | --- | --- | --- |
-| type | panel`|`container`|`matrix | panel | type of building block |
-| orientation | vertical`|`horizontal | vertical | applicable only for **container** type |
+| type | panel/container/matrix | panel | type of building block |
+| orientation | vertical/horizontal | vertical | applicable only for **container** type |
 | children | array | null | applicable only for **container** type |
 | size | number (1-100) | 100 |  applicable only for child elements of a **container**. _Note: sum total of all the elements in the container should be 100_  |
 | code | string | null | unique identifier for the template in the given template library |
 | title | string | null | Name as visible on the tools list |
 | summary | string | null | Brief summary of template as visible on the tools list |
-| datatype | text`|`list`|`select`|`image | null | applicable only for **panel** type. _See [supported datatypes](#supported_datatypes) section above_ |
+| datatype | text/list/select/image | null | applicable only for **panel** type. _See [supported datatypes](#supported_datatypes) section above_ |
 | columns | array | null | applicable only for **matrix** type. _See [matrix](#matrix) section above_ |
 | rows | array | null | applicable only for **matrix** type. _See [matrix](#matrix) section above_ |
 | properties | object | null | This represents datatype specific extended metadata |
@@ -121,10 +121,10 @@ Children consists of following properties
 | | row.title | string | Title of the row |   
 | | column.title | string | Short summary of the row - displayed on hover of the title |
 | |
-| list | view | list`|`title | indicates how should the list items be rendered |
+| list | view | list/title | indicates how should the list items be rendered |
 | |
 | image | height | number | max-height of the image |
 | | width | number | max-width of the image |
-| | mode | link`|`embed | Indicates if the image should be a web-url or an uploaded file |
+| | mode | link/embed | Indicates if the image should be a web-url or an uploaded file |
 
 
