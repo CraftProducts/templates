@@ -7,7 +7,7 @@ CraftProducts provides online tools for product teams to clearly understand cust
 
 CraftProducts is a simple online editor that interprets CraftProduct schema (explained below) compliant YAML templates and render the layout in a structured way. 
 
-![Landing page](/images/landing_page.png)
+![Landing page](https://github.com/CraftProducts/app/blob/master/images/landing_page.png)
 
 All the registered templates can be found in [index.yaml](/template/index.yaml)
 
@@ -65,8 +65,8 @@ System supports templates with primiarily 2 types of layouts
 
 | Layout | Description | Sample template |
 | --- | --- | --- | 
-| freeflow | sections expand as per the content. | ![Customer journey map](/images/journey_map.png) |
-| split window | templates of this layout type is restricted to the screen height and width and occupy full screen. User has an option to slide individual sections horizontally and vertically | ![Product vision board](/images/product_vision_board.png) |
+| freeflow | sections expand as per the content. | ![Customer journey map](https://github.com/CraftProducts/app/blob/master/images/journey_map.png) |
+| split window | templates of this layout type is restricted to the screen height and width and occupy full screen. User has an option to slide individual sections horizontally and vertically | ![Product vision board](https://github.com/CraftProducts/app/blob/master/images/product_vision_board.png) |
 
 
 ## Understanding template structure
