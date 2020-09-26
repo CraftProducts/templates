@@ -43,7 +43,7 @@ templates:
     title: Lean canvas
     thumbnail: leancanvas.png
     summary: |
-      [Ash Maurya's](https://leanstack.com/leancanvas) Lean Canvas is an adaption of Business Model Canvas’ canvas from above, with the add-on of information that would be useful in a presentation to executives, like revenue streams, cost structure and key metrics.
+      [Ash Mauryas](https://leanstack.com/leancanvas) Lean Canvas is an adaption of Business Model Canvas’ canvas from above, with the add-on of information that would be useful in a presentation to executives, like revenue streams, cost structure and key metrics.
     type: 
       - valueprop
 
@@ -51,7 +51,7 @@ templates:
     title: Value proposition canvas
     thumbnail: valuepropcanvas.png
     summary: |
-      [Alexander Osterwalder's](https://www.strategyzer.com/canvas/value-proposition-canvas) user-centric value proposition model canvas is great for PMs who might have multiple use cases or a diverse group of users in their product.
+      [Alexander Osterwalders](https://www.strategyzer.com/canvas/value-proposition-canvas) user-centric value proposition model canvas is great for PMs who might have multiple use cases or a diverse group of users in their product.
     type: 
       - valueprop
 
