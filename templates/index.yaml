@@ -27,7 +27,7 @@ templates:
     title: Product vision board
     thumbnail: productvisionboard.png
     summary: |
-      [Roman Pichler’s](https://www.romanpichler.com/tools/product-vision-board/) unique approach to your product’s value proposition doesn’t look at it from the lens of your user, but of your business.
+      [Roman Pichler's](https://www.romanpichler.com/tools/product-vision-board/) unique approach to your product's value proposition doesn't look at it from the lens of your user, but of your business.
     type: 
       - valueprop
 
@@ -43,7 +43,7 @@ templates:
     title: Lean canvas
     thumbnail: leancanvas.png
     summary: |
-      [Ash Maurya's](https://leanstack.com/leancanvas) Lean Canvas is an adaption of Business Model Canvas’ canvas from above, with the add-on of information that would be useful in a presentation to executives, like revenue streams, cost structure and key metrics.
+      [Ash Maurya's](https://leanstack.com/leancanvas) Lean Canvas is an adaption of Business Model Canvas from above, with the add-on of information that would be useful in a presentation to executives, like revenue streams, cost structure and key metrics.
     type: 
       - valueprop
 
@@ -59,7 +59,7 @@ templates:
     title: Customer experience
     thumbnail: cxjourneymaps.png
     summary: |
-      A Customer Experience map visually identifies and organizes every encounter a customer has (or could have) with your company and brand. These interactions are commonly referred to as “touchpoints”.
+      A Customer Experience map visually identifies and organizes every encounter a customer has (or could have) with your company and brand. These interactions are commonly referred to as touchpoints.
     type: 
       - journeymaps
 
