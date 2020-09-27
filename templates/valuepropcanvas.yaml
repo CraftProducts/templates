@@ -13,7 +13,7 @@ children:
         icon: tasks
         code: CUSTOMERJOBS
         title: Customer Job(s)
-        summary: List out all of your user’s everyday tasks or problems.
+        summary: List out all of your user's everyday tasks or problems.
         datatype: list
 
       - type: panel
