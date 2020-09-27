@@ -43,7 +43,7 @@ templates:
     title: Lean canvas
     thumbnail: leancanvas.png
     summary: |
-      [Ash Maurya's](https://leanstack.com/leancanvas) Lean Canvas is an adaption of Business Model Canvas’ canvas from above, with the add-on of information that would be useful in a presentation to executives, like revenue streams, cost structure and key metrics.
+      [Ash Maurya's](https://leanstack.com/leancanvas) Lean Canvas is an adaption of Business Model Canvas from above, with the add-on of information that would be useful in a presentation to executives, like revenue streams, cost structure and key metrics.
     type: 
       - valueprop
 
