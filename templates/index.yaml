@@ -59,7 +59,7 @@ templates:
     title: Customer experience
     thumbnail: cxjourneymaps.png
     summary: |
-      A Customer Experience map visually identifies and organizes every encounter a customer has (or could have) with your company and brand. These interactions are commonly referred to as “touchpoints”.
+      A Customer Experience map visually identifies and organizes every encounter a customer has (or could have) with your company and brand. These interactions are commonly referred to as touchpoints.
     type: 
       - journeymaps
 
